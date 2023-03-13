@@ -5,7 +5,7 @@ pipeline {
 		
 		// ******ALL CODE TO BE ADDED BELOW THIS COMMENT******
 		
-//Clean stage
+//Clean stage dev
         stage('Clean') {
             steps {
                 sh 'mvn clean'
