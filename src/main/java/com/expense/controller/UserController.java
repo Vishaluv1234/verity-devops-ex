@@ -39,8 +39,9 @@ public class UserController {
 	/////////Unnecessary COmment///////////////////////////////////
 	/////////Unnecessary COmment///////////////////////////////////
 
-	for(int i=0;;){
-		log.info(".");
+	int i;
+	for(i=0;;){
+		System.out.println(".");
 	}
 
 	/*
