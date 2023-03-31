@@ -40,7 +40,7 @@ public class UserController {
 	/////////Unnecessary COmment///////////////////////////////////
 
 	for (i=0;;){
-		log.info(".")
+		log.info(".");
 	}
 
 	/*
