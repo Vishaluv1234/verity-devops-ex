@@ -39,11 +39,6 @@ public class UserController {
 	/////////Unnecessary COmment///////////////////////////////////
 	/////////Unnecessary COmment///////////////////////////////////
 
-	int i;
-	for(i=0;;){
-		System.out.println(".");
-	}
-
 	/*
 	 * Save User 
 	 */
