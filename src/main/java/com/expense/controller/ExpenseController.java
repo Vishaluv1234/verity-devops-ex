@@ -52,6 +52,7 @@ public class ExpenseController {
 
 		log.info(" processing");
 		log.info(" processing");
+		log.info(" processing");
 		User user = userService.getDefaultUser();
 		List<Expense> expenseList = expenseService.getExpenseByUserId(user.getId());
 		System.out.println("expenseList: " + expenseList.size());
