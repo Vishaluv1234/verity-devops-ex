@@ -22,7 +22,7 @@ pipeline {
         }
 		//Code ends for neww stage Compile
 
-//Code starts for Code Analysis
+//Code starts for static Code Analysis
 		stage('Code Analysis') {
             steps {
 			 script {
