@@ -34,7 +34,7 @@ pipeline {
 				}
 			}
 		}
-		//Code ends for stage Code Analysis
+		//Code ends for static stage Code Analysis
 
 
 	
