@@ -14,7 +14,7 @@ pipeline {
 		// Cleanstage
 
 
-//Code start for my stage Compile
+//Code start for my teststage Compile
 		stage('Compile') {
             steps {
                 sh 'mvn compile'
